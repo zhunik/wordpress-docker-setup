@@ -1,5 +1,11 @@
 .DS_Store
-wp-content/*
+wp-content/*.*
 !wp-content/.gitkeep
+wp-content/themes/*
+!wp-content/themes/.gitkeep
+wp-content/plugins/*
+!wp-content/plugins/.gitkeep
+wp-content/uploads/*    
+!wp-content/uploads/.gitkeep
 db/*
 !db/.gitkeep
